@@ -1,2 +1,2 @@
 # webdev
-this is a demo for get and gethub
+this is a demo for get and gethub project
